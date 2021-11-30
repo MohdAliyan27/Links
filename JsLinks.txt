@@ -1,0 +1,16 @@
+https://flexiple.com/flatten-array-javascript/
+https://stackoverflow.com/questions/10865025/merge-flatten-an-array-of-arrays
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat
+https://stackoverflow.com/questions/14824283/convert-a-2d-javascript-array-to-a-1d-array#:~:text=var%20arrToConvert%20%3D%20%5B%5B0%2C0,way%20to%20implement%20this%20function%3F%20%7D
+converting 2d array in 1d array js
+https://www.geeksforgeeks.org/how-to-convert-a-number-into-array-in-javascript/
+input = [[1,2,3],[3,[4],[5]]]; in js
+how tosplit array elelment intp respective elelmnt
+let input = ['1,2,3,4', 'A,B,C,D']; how to split array element
+https://www.tutorialspoint.com/expressjs/expressjs_authentication.htm
+https://auth0.com/blog/create-a-simple-and-secure-node-express-app/
+https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/
+http://www.passportjs.org/
+https://auth0.com/blog/create-a-simple-and-secure-node-express-app/
+
+
